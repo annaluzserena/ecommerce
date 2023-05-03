@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:routes/products._index.jsx?browser", "../../../app/routes/products._index.jsx"],
+  "sourcesContent": ["export { default } from \"./routes/products._index.jsx\";", "export default function ProductsIndexRoute() {\n    return (\n        <div>\n            <p>Product</p>\n            <p>\n                Random product\n            </p>\n        </div>\n    );\n}"],
+  "mappings": ";;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAAA;AAAA;AAGY;AAHG,SAAR,qBAAsC;AACzC,SACI,mDAAC,SACG;AAAA,uDAAC,OAAE,uBAAH;AAAA;AAAA;AAAA;AAAA,WAAU;AAAA,IACV,mDAAC,OAAE,8BAAH;AAAA;AAAA;AAAA;AAAA,WAEA;AAAA,OAJJ;AAAA;AAAA;AAAA;AAAA,SAKA;AAER;",
+  "names": []
+}
