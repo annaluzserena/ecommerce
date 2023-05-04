@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["browser-route-module:routes/products.jsx?browser", "../../../app/routes/products.jsx"],
-  "sourcesContent": ["export { default } from \"./routes/products.jsx\";", "import { Outlet } from \"@remix-run/react\";\n\nexport default function ProductsRoute() {\n    return (\n        <div>\n            <h1>Products</h1>\n            <main>\n                <Outlet />\n            </main>\n        </div>\n    );\n}"],
-  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAAA;AAAA;AAKY;AAHG,SAAR,gBAAiC;AACpC,SACI,mDAAC,SACG;AAAA,uDAAC,QAAG,wBAAJ;AAAA;AAAA;AAAA;AAAA,WAAY;AAAA,IACZ,mDAAC,UACG,6DAAC,YAAD;AAAA;AAAA;AAAA;AAAA,WAAQ,KADZ;AAAA;AAAA;AAAA;AAAA,WAEA;AAAA,OAJJ;AAAA;AAAA;AAAA;AAAA,SAKA;AAER;",
-  "names": []
-}

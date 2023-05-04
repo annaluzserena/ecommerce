@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["browser-route-module:root.jsx?browser", "../../app/root.jsx"],
-  "sourcesContent": ["export { default } from \"./root.jsx\";", "import { Links, LiveReload, Outlet } from \"@remix-run/react\";\n\nexport default function App() {\n  return (\n    <html lang=\"en\">\n      <head>\n        <meta charSet=\"utf-8\" />\n        <meta\n          name=\"viewport\"\n          content=\"width=device-width,initial-scale=1\"\n        />\n        <title>Ecommerce</title>\n        <Links />\n      </head>\n      <body>\n        <Outlet />\n        <LiveReload />\n      </body>\n    </html>\n  );\n}"],
-  "mappings": ";;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAAA;AAAA;AAMQ;AAJO,SAAR,MAAuB;AAC5B,SACE,mDAAC,UAAK,MAAK,MACT;AAAA,uDAAC,UACC;AAAA,yDAAC,UAAK,SAAQ,WAAd;AAAA;AAAA;AAAA;AAAA,aAAsB;AAAA,MACtB;AAAA,QAAC;AAAA;AAAA,UACC,MAAK;AAAA,UACL,SAAQ;AAAA;AAAA,QAFV;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,MAGA;AAAA,MACA,mDAAC,WAAM,yBAAP;AAAA;AAAA;AAAA;AAAA,aAAgB;AAAA,MAChB,mDAAC,WAAD;AAAA;AAAA;AAAA;AAAA,aAAO;AAAA,SAPT;AAAA;AAAA;AAAA;AAAA,WAQA;AAAA,IACA,mDAAC,UACC;AAAA,yDAAC,YAAD;AAAA;AAAA;AAAA;AAAA,aAAQ;AAAA,MACR,mDAAC,gBAAD;AAAA;AAAA;AAAA;AAAA,aAAY;AAAA,SAFd;AAAA;AAAA;AAAA;AAAA,WAGA;AAAA,OAbF;AAAA;AAAA;AAAA;AAAA,SAcA;AAEJ;",
-  "names": []
-}

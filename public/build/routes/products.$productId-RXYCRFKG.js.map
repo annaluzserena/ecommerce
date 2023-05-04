@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["browser-route-module:routes/products.$productId.jsx?browser", "../../../app/routes/products.$productId.jsx"],
-  "sourcesContent": ["export { default } from \"./routes/products.$productId.jsx\";", "export default function ProductRoute() {\n    return (\n        <div>\n            <h3>Product Info:</h3>\n            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis nemo enim vitae voluptate tempora laudantium nihil deserunt voluptatibus? Suscipit pariatur ea esse dolorem ad maiores, commodi quidem eos nemo tempore!</p>\n        </div>\n    );\n};"],
-  "mappings": ";;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAAA;AAAA;AAGY;AAHG,SAAR,eAAgC;AACnC,SACI,mDAAC,SACG;AAAA,uDAAC,QAAG,6BAAJ;AAAA;AAAA;AAAA;AAAA,WAAiB;AAAA,IACjB,mDAAC,OAAE,wOAAH;AAAA;AAAA;AAAA;AAAA,WAA2N;AAAA,OAF/N;AAAA;AAAA;AAAA;AAAA,SAGA;AAER;",
-  "names": []
-}

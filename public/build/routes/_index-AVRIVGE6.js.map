@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["browser-route-module:routes/_index.jsx?browser", "../../../app/routes/_index.jsx"],
-  "sourcesContent": ["export { default, links } from \"./routes/_index.jsx\";", "import { LinksFunction } from \"@remix-run/node\";\nimport { Link } from \"@remix-run/react\";\n\nimport stylesUrl from \"~/styles/global.css\";\n\nexport const links = () => {\n  return [\n  { rel: \"stylesheet\", href: stylesUrl }];\n\n};\n\nexport default function IndexRoute() {\n  return (\n    <div>\n            <Link to=\"products\">Products</Link>\n        </div>);\n\n}"],
-  "mappings": ";;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA;AAAA;AAAA;AAAA;;;;;;AAcY;AATL,IAAM,QAAQ,MAAM;AACzB,SAAO;AAAA,IACP,EAAE,KAAK,cAAc,MAAM,eAAU;AAAA,EAAC;AAExC;AAEe,SAAR,aAA8B;AACnC,SACE,mDAAC,SACO,6DAAC,QAAK,IAAG,YAAW,wBAApB;AAAA;AAAA;AAAA;AAAA,SAA4B,KADpC;AAAA;AAAA;AAAA;AAAA,SAEI;AAER;",
-  "names": []
-}
