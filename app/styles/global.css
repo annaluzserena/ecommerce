@@ -1,6 +1,11 @@
 :root {
     --black: #172A33;
     --white: #f9f4f5;
+    --brown: #462a1c;
+    --dark-pink: #8c6653;
+    --medium-pink: #ca9e93;
+    --light-pink: #d9bcb8;
+    --light-gray: #ded5d0;
 }
 
 body {
